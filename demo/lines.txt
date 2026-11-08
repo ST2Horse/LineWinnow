@@ -1,0 +1,8 @@
+apple
+apple
+ APPLE 
+banana
+ banana 
+梨
+梨
+end
